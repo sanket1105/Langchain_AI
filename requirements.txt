@@ -33,3 +33,4 @@ numexpr
 huggingface_hub
 flask
 requests
+streamlit
