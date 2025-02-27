@@ -1,6 +1,5 @@
 langchain
-openai
-python-dotenv 
+python-dotenv
 ipykernel
 langchain-community
 pypdf
@@ -31,6 +30,7 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-flask
-requests
+langserve
+fastapi
+sse_starlette
 streamlit
