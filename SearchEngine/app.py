@@ -56,7 +56,7 @@ if prompt := st.chat_input(placeholder="What is machine learning?"):
         tools,
         llm,
         agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-        handling_parsing_errors=False,
+        handling_parsing_errors=True,
     )
 
     with st.chat_message("assistant"):
