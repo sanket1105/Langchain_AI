@@ -14,7 +14,6 @@ This repository contains a collection of AI and machine learning projects focusi
 
 - **LCEL**: LangChain Expression Language examples
 - **LangChain**: Core LangChain implementations
-- **StructuredOutput**: Working with structured outputs in LangChain
 - **Pydantic**: Data validation and settings management
 
 ### 3. Advanced Applications
@@ -96,7 +95,6 @@ GROQ_API_KEY=your_groq_api_key
 ├── RAG_and_Groq/        # RAG with Groq
 ├── SearchEngine/        # AI search engine
 ├── SQLAgent/            # SQL operations agent
-├── StructuredOutput/    # Structured data handling
 ├── TextSummarization/   # Text summarization
 ├── templates/           # Project templates
 ├── requirements.txt     # Project dependencies
